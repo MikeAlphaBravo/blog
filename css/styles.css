@@ -1,0 +1,23 @@
+.post1 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-color: blue;
+  float: left;
+  width: 30%;
+}
+
+.post2 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-color: red;
+  float: left;
+  width: 30%;
+}
+
+.post3 {
+  margin-top: 40px
+  margin-bottom: 40px;
+  background-color: green;
+  float: left;
+  width: 30%;
+}
